@@ -1,0 +1,11 @@
+div {
+    background-image: url(./img/pattern.png);
+    background-repeat: repeat;
+    height: 220px;
+    background-color: #4EA0FF;
+}
+
+#logo-b {
+    margin-top: 85px;
+    width: 450px;
+    }
