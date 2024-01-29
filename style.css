@@ -36,6 +36,30 @@ header {
     font-size: 12px;
 }
 
-span {
-    background-color: yellow;
+#yellow-back{
+    background-color: #ffff00;
+}
+
+thead {
+    background-color: #20A9E5;
+}
+
+.riga-colorata{
+    background-color: #B1E5F2;
+}
+
+#text {
+    color: #ffffff;
+    }
+
+.last{
+    width: 50%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
 }
