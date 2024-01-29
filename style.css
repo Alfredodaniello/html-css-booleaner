@@ -3,63 +3,67 @@ header {
     background-repeat: repeat;
     height: 220px;
     background-color: #4EA0FF;
-    }
+}
 
 #logo-b {
     margin-top: 85px;
     width: 450px;
-    }
+}
 
     h1 {
         margin-bottom: 0;
         font-size: 50px;
-    }
+}
 
 .p-titolo {
         margin-bottom: 0;
         margin-top: 0;
         color: #808080;
-    }
+}
 
     a {
         color: #20A9E5;
-    }
+}
   
 #tim-congr {
         width: 650px;
         margin-top: 35px;
-    }
+}
 
 .p-photo {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 12px;
-    }
+}
 
 #yellow-back {
     background-color: #ffff00;
-    }
+}
 
 thead {
     background-color: #20A9E5;
-    }   
+}   
 
 .riga-colorata {
     background-color: #B1E5F2;
-    }
+}
 
 #text {
     color: #ffffff;
-    }
+}
 
 .last {
     width: 50%;
-    }
+}
 
 table {
     border-collapse: collapse;
-    }
+}
 
 th {
     text-align: left;
-    }
+}
+
+h3 {
+
+}
