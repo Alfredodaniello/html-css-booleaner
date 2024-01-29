@@ -35,3 +35,7 @@ header {
     margin-bottom: 0;
     font-size: 12px;
 }
+
+span {
+    background-color: yellow;
+}
