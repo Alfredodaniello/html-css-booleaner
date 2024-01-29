@@ -65,5 +65,26 @@ th {
 }
 
 h3 {
+    color: #808080;
+    margin-top: 45px;
+}
 
+#monitor {
+    background-image: url(./img/monitor.jpg);
+    background-size: cover;
+    width: 430px;
+    height: 320px;
+}
+
+#grafico {
+    background-image: url(./img/graph.jpg);
+    background-size: cover;
+    width: 430px;
+    height: 320px;
+}
+
+h2 {
+    padding-top: 20px;
+    margin-left: 15px;
+    color: #ffffff;
 }
